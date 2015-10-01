@@ -1,0 +1,43 @@
+body {
+	box-sizing: content-box;
+	width:100%;
+	margin-right:3%;
+	margin-left:3%;
+}
+.navbar {
+	box-sizing: content-box;
+	width: 100%;
+	margin-right: 5%;
+	height: 25%;
+}
+
+.navbar li {
+	display: inline-block;
+}
+
+li{
+	box-sizing: content-box;
+	width: 18%;
+}
+
+.middlesection {
+	height: 60%;
+}
+
+.middlesection span {
+	display: inline-block;
+}
+
+span{
+	box-sixing: content-box;
+	width: 50%;
+}
+
+
+footer {
+	height: 15%;
+}
+
+footer li {
+	display: inline-block;
+}
